@@ -1,0 +1,385 @@
+{
+    "rewards": {
+      "85-100": [
+        {
+          "artifact": "Infinity Gauntlet",
+          "message": "You scored %%. With your power, you wield the Infinity Gauntlet! Control the fate of the universe!"
+        },
+        {
+          "artifact": "Tesseract (Space Stone)",
+          "message": "You scored %%. Your knowledge spans galaxies. I grant you the Tesseract, master of space!"
+        },
+        {
+          "artifact": "Aether (Reality Stone)",
+          "message": "You scored %%. Reality bends to your will. I present you with the Aether, forge your own destiny!"
+        },
+        {
+          "artifact": "Orb (Power Stone)",
+          "message": "You scored %%. Your strength is unmatched. Accept the Orb and harness the Power Stone!"
+        },
+        {
+          "artifact": "Eye of Agamotto (Time Stone)",
+          "message": "You scored %%. Time is at your command. You are worthy of the Eye of Agamotto!"
+        },
+        {
+          "artifact": "Scepter (Mind Stone)",
+          "message": "You scored %%. Your mind is formidable. Receive the Scepter, and the Mind Stone is yours!"
+        },
+        {
+          "artifact": "Mjolnir (Thor's Hammer)",
+          "message": "You scored %%. You are worthy! Wield Mjolnir, the mighty hammer of Thor!"
+        },
+        {
+          "artifact": "Stormbreaker",
+          "message": "You scored %%. Unmatched in battle, I bestow upon you Stormbreaker, the ultimate weapon of Asgard!"
+        },
+        {
+          "artifact": "The Book of Cagliostro",
+          "message": "You scored %%. Your wisdom in the mystic arts is profound. You are granted the Book of Cagliostro!"
+        },
+        {
+          "artifact": "The Darkhold",
+          "message": "You scored %%. The dark secrets are at your fingertips. Embrace the power of the Darkhold!"
+        },
+        {
+          "artifact": "The Casket of Ancient Winters",
+          "message": "You scored %%. Unleash the eternal cold. You are now the keeper of the Casket of Ancient Winters!"
+        },
+        {
+          "artifact": "The Eternal Flame",
+          "message": "You scored %%. Your flame shines bright! I award you the Eternal Flame of Surtur!"
+        },
+        {
+          "artifact": "The Bifrost Sword (Hofund)",
+          "message": "You scored %%. Guardian of realms, wield the Bifrost Sword and open the path to Asgard!"
+        },
+        {
+          "artifact": "Captain America's Shield",
+          "message": "You scored %%. Stand tall as a beacon of hope. You are entrusted with Captain America’s Shield!"
+        },
+        {
+          "artifact": "The Ten Rings",
+          "message": "You scored %%. Master of the mystic arts, the Ten Rings are yours to command!"
+        },
+        {
+          "artifact": "Black Panther's Vibranium Suit",
+          "message": "You scored %%. Protector of Wakanda, you are granted Black Panther’s Vibranium Suit!"
+        },
+        {
+          "artifact": "The Quantum Realm Device",
+          "message": "You scored %%. Your intellect knows no bounds. Take the Quantum Realm Device and explore the unknown!"
+        },
+        {
+          "artifact": "The Wakandan Kimoyo Beads",
+          "message": "You scored %%. Connected to the future, I give you the Wakandan Kimoyo Beads!"
+        },
+        {
+          "artifact": "Ant-Man's Suit",
+          "message": "You scored %%. Size is no obstacle. You are equipped with Ant-Man’s Suit!"
+        },
+        {
+          "artifact": "Pym Particles",
+          "message": "You scored %%. Master of quantum physics, you are now in possession of Pym Particles!"
+        },
+        {
+          "artifact": "The Cloak of Levitation",
+          "message": "You scored %%. Grace and power are yours. You are bestowed with the Cloak of Levitation!"
+        },
+        {
+          "artifact": "The Eye of Agamotto",
+          "message": "You scored %%. Time's mysteries unravel for you. The Eye of Agamotto is your guide!"
+        },
+        {
+          "artifact": "Doctor Strange’s Sling Ring",
+          "message": "You scored %%. Travel the multiverse with ease. You have earned Doctor Strange’s Sling Ring!"
+        },
+        {
+          "artifact": "The Nova Corps' Orb Container",
+          "message": "You scored %%. Guardian of the galaxy, protect the Power Stone with the Nova Corps’ Orb Container!"
+        },
+        {
+          "artifact": "The Sovereign's Anulax Batteries",
+          "message": "You scored %%. You hold immense energy. I award you the Sovereign’s Anulax Batteries!"
+        }
+      ],
+      "75-84": [
+        {
+          "message": "Excellent work, hero! Your prowess is akin to that of a seasoned Avenger. Keep pushing, you're nearly there!"
+        },
+        {
+          "message": "You're so close to greatness! With %%, you've shown that you have the heart of a warrior. Keep striving!"
+        },
+        {
+          "message": "Fantastic! You’ve harnessed the power of an Asgardian. With %%, you’re on the brink of ultimate knowledge!"
+        },
+        {
+          "message": "Impressive! At %%, your performance rivals that of the Guardians. Just a bit more to reach the top!"
+        },
+        {
+          "message": "Well done! With %%, you’ve displayed the intelligence of Stark himself. Aim higher for even greater achievements!"
+        }
+      ],
+      "70-74": [
+        {
+          "message": "Great job! You’re an honorary member of the Avengers with your %%. Just a few more correct answers and you'll be a legend!"
+        },
+        {
+          "message": "You're a force to be reckoned with! At %%, your knowledge is formidable. Keep it up!"
+        },
+        {
+          "message": "Impressive! With an %%, you’ve got the makings of a true superhero. Just a little more effort!"
+        },
+        {
+          "message": "At %%, you’re doing amazing! Your skills remind us of Black Widow’s precision. Keep aiming high!"
+        },
+        {
+          "message": "Fantastic effort! Your %% score shows you’ve got the heart of a hero. Keep pushing forward!"
+        }
+      ],
+      "65-69": [
+        {
+          "message": "Nice work! With %%, you're as sharp as Hawkeye's arrows. Just a bit more practice to hit the bullseye!"
+        },
+        {
+          "message": "At %%, you’re proving your worth as a Marvel expert. A few more steps to greatness!"
+        },
+        {
+          "message": "You’re on the right path! With %%, your knowledge shines like Vibranium. Keep going!"
+        },
+        {
+          "message": "Solid effort! Scoring %% shows you're a rising star in the MCU. Keep learning and improving!"
+        },
+        {
+          "message": "With %%, you're showing true potential. Like Ant-Man, sometimes it’s the little things that make a big difference!"
+        }
+      ],
+      "60-64": [
+        {
+          "message": "Good job! With %%, you're as resilient as the Hulk. Keep smashing through those questions!"
+        },
+        {
+          "message": "You're getting there! At %%, your knowledge is growing stronger. Keep up the good work!"
+        },
+        {
+          "message": "With %%, you’re on the verge of greatness. Like Rocket, a bit more cunning and you’ll nail it!"
+        },
+        {
+          "message": "Nice attempt! Scoring %% shows you're no ordinary fan. Keep striving for that top spot!"
+        },
+        {
+          "message": "At %%, you’re making great progress. Your potential is as vast as the Quantum Realm!"
+        }
+      ],
+      "55-59": [
+        {
+          "message": "Not bad! With %%, you’re showing the determination of Spider-Man. Keep swinging towards success!"
+        },
+        {
+          "message": "Good effort! At %%, you're displaying true potential. Like Doctor Strange, a bit more practice and you’ll master it!"
+        },
+        {
+          "message": "With %%, you're making solid progress. Your knowledge is expanding like the universe itself!"
+        },
+        {
+          "message": "Nice work! Scoring %% shows you’re on the right track. Keep aiming high, just like Iron Man!"
+        },
+        {
+          "message": "At %%, you’re halfway to becoming a Marvel mastermind. Keep pushing, you're doing great!"
+        }
+      ],
+      "50-54": [
+        {
+          "message": "You’re on your way! With %%, you’re like Thor finding his true power. Keep going, you’re getting there!"
+        },
+        {
+          "message": "Good effort! At %%, you’ve shown you’re no ordinary fan. Keep at it, and you’ll reach new heights!"
+        },
+        {
+          "message": "With %%, you’re starting to grasp the MCU’s vast universe. Keep exploring and learning!"
+        },
+        {
+          "message": "Nice try! Scoring %% shows you’ve got potential. Like Groot, sometimes it’s about growing at your own pace!"
+        },
+        {
+          "message": "At %%, you’re doing well. Your knowledge is like the Hulk’s strength, keep refining it!"
+        }
+      ],
+      "45-49": [
+        {
+          "message": "Not bad! With %%, you’re starting to grasp the MCU’s universe. Keep exploring and learning!"
+        },
+        {
+          "message": "Good effort! At %%, you’ve shown potential. Keep at it, and you’ll achieve greatness!"
+        },
+        {
+          "message": "With %%, you’re making progress. Keep pushing forward, and you’ll be a Marvel expert in no time!"
+        },
+        {
+          "message": "Nice try! Scoring %% shows you’ve got the basics. Keep studying, and you’ll reach new heights!"
+        },
+        {
+          "message": "At %%, you’re halfway there. Keep at it, and you’ll be as knowledgeable as the Sorcerer Supreme!"
+        }
+      ],
+      "40-44": [
+        {
+          "message": "Decent effort! With %%, you’re getting there. Like Captain Marvel, keep pushing beyond your limits!"
+        },
+        {
+          "message": "Not bad! At %%, you’ve got a good foundation. Keep building on it, and you’ll be unstoppable!"
+        },
+        {
+          "message": "With %%, you’re showing promise. Keep at it, and you’ll soon master the MCU!"
+        },
+        {
+          "message": "Nice try! Scoring %% shows you’ve got the basics. Keep studying, and you’ll reach new heights!"
+        },
+        {
+          "message": "At %%, you’re making progress. Keep going, and you’ll be an MCU expert in no time!"
+        }
+      ],
+      "35-39": [
+        {
+          "message": "You’re on your way! With %%, you’re starting to understand the MCU. Keep it up!"
+        },
+        {
+          "message": "Good effort! At %%, you’ve shown promise. Keep learning, and you’ll be a Marvel pro!"
+        },
+        {
+          "message": "With %%, you’re making progress. Keep at it, and you’ll soon be a trivia champion!"
+        },
+        {
+          "message": "Nice try! Scoring %% shows you’ve got potential. Keep studying, and you’ll achieve greatness!"
+        },
+        {
+          "message": "At %%, you’re on your way. Keep pushing forward, and you’ll be an MCU expert in no time!"
+        }
+      ],
+      "30-34": [
+        {
+          "message": "Not bad! With %%, you’re starting to understand the MCU. Keep it up!"
+        },
+        {
+          "message": "Good effort! At %%, you’ve shown promise. Keep learning, and you’ll be a Marvel pro!"
+        },
+        {
+          "message": "With %%, you’re making progress. Keep at it, and you’ll soon be a trivia champion!"
+        },
+        {
+          "message": "Nice try! Scoring %% shows you’ve got the basics. Keep pushing forward!"
+        },
+        {
+          "message": "At %%, you’re making progress. Keep learning, and you’ll be an expert in no time!"
+        }
+      ],
+      "25-29": [
+        {
+          "message": "You’re on your way! With %%, you’re starting to grasp the MCU’s universe. Keep exploring and learning!"
+        },
+        {
+          "message": "Good effort! At %%, you’re showing potential. Keep at it, and you’ll achieve greatness!"
+        },
+        {
+          "message": "With %%, you’re on your way. Keep pushing forward, and you’ll be a Marvel expert in no time!"
+        },
+        {
+          "message": "Nice try! Scoring %% shows you’ve got the basics. Keep studying, and you’ll reach new heights!"
+        },
+        {
+          "message": "At %%, you’re making progress. Keep going, and soon you’ll be a hero of trivia!"
+        }
+      ],
+      "20-24": [
+        {
+          "message": "You’re getting there! With %%, you’re on the right path. Keep pushing, you’ve got this!"
+        },
+        {
+          "message": "Good effort! At %%, you’re showing promise. Keep learning, and you’ll be unstoppable!"
+        },
+        {
+          "message": "With %%, you’re making progress. Keep going, and you’ll soon master the MCU!"
+        },
+        {
+          "message": "Nice try! Scoring %% shows you’ve got potential. Keep studying, and you’ll achieve greatness!"
+        },
+        {
+          "message": "At %%, you’re on your way. Keep pushing forward, and you’ll be an MCU expert in no time!"
+        }
+      ],
+      "15-19": [
+        {
+          "message": "Not bad! With %%, you’re starting to understand the MCU. Keep it up!"
+        },
+        {
+          "message": "Good effort! At %%, you’ve shown promise. Keep learning, and you’ll be a Marvel pro!"
+        },
+        {
+          "message": "With %%, you’re making progress. Keep at it, and you’ll soon be a trivia champion!"
+        },
+        {
+          "message": "Nice try! Scoring %% shows you’ve got the basics. Keep pushing forward!"
+        },
+        {
+          "message": "At %%, you’re making progress. Keep learning, and you’ll be an expert in no time!"
+        }
+      ],
+      "10-14": [
+        {
+          "message": "You’re on your way! With %%, you’re starting to grasp the MCU’s universe. Keep exploring and learning!"
+        },
+        {
+          "message": "Good effort! At %%, you’re showing potential. Keep at it, and you’ll achieve greatness!"
+        },
+        {
+          "message": "With %%, you’re on your way. Keep pushing forward, and you’ll be a Marvel expert in no time!"
+        },
+        {
+          "message": "Nice try! Scoring %% shows you’ve got the basics. Keep studying, and you’ll reach new heights!"
+        },
+        {
+          "message": "At %%, you’re making progress. Keep going, and soon you’ll be a hero of trivia!"
+        }
+      ],
+      "5-9": [
+        {
+          "message": "You’re getting there! With %%, you’re on the right path. Keep pushing, you’ve got this!"
+        },
+        {
+          "message": "Good effort! At %%, you’re showing promise. Keep learning, and you’ll be unstoppable!"
+        },
+        {
+          "message": "With %%, you’re making progress. Keep going, and you’ll soon master the MCU!"
+        },
+        {
+          "message": "Nice try! Scoring %% shows you’ve got potential. Keep studying, and you’ll achieve greatness!"
+        },
+        {
+          "message": "At %%, you’re on your way. Keep pushing forward, and you’ll be an MCU expert in no time!"
+        }
+      ],
+      "1-4": [
+        {
+          "message": "Not bad! With %%, you’re starting to understand the MCU. Keep it up!"
+        },
+        {
+          "message": "Good effort! At %%, you’ve shown promise. Keep learning, and you’ll be a Marvel pro!"
+        },
+        {
+          "message": "With %%, you’re making progress. Keep at it, and you’ll soon be a trivia champion!"
+        },
+        {
+          "message": "Nice try! Scoring %% shows you’ve got the basics. Keep pushing forward!"
+        },
+        {
+          "message": "At %%, you’re making progress. Keep learning, and you’ll be an expert in no time!"
+        }
+      ],
+      "0": [
+        {
+          "message": "Horrible! With %%, It's clear you know nothing about the MCU, get back to the cinema!"
+        }
+      ]
+
+    }
+  }
+  

@@ -1,0 +1,1212 @@
+[
+    {
+        "question": "Who plays the role of Tony Stark in the first Iron Man film?",
+        "options": [
+            "Robert Downey Jr.",
+            "Chris Evans",
+            "Chris Hemsworth",
+            "Mark Ruffalo"
+        ],
+        "correct_answer": "Robert Downey Jr.",
+        "hint": "This actor's comeback role after years of personal struggles."
+    },
+    {
+        "question": "What is the name of Tony Stark's company?",
+        "options": [
+            "Stark Enterprises",
+            "Stark Industries",
+            "Stark Corp",
+            "Stark Innovations"
+        ],
+        "correct_answer": "Stark Industries",
+        "hint": "The company's name is derived from Tony's surname."
+    },
+    {
+        "question": "What is the name of the device Tony Stark builds to escape from captivity?",
+        "options": [
+            "Arc Reactor",
+            "Repulsor Beam",
+            "Unibeam",
+            "Power Core"
+        ],
+        "correct_answer": "Arc Reactor",
+        "hint": "This device is also what powers his Iron Man suit."
+    },
+    {
+        "question": "Who is the main antagonist in the first Iron Man film?",
+        "options": [
+            "Obadiah Stane",
+            "Justin Hammer",
+            "Whiplash",
+            "Mandarin"
+        ],
+        "correct_answer": "Obadiah Stane",
+        "hint": "He is a business partner and mentor to Tony Stark."
+    },
+    {
+        "question": "What is the name of Tony Stark's personal assistant?",
+        "options": [
+            "Pepper Potts",
+            "Natasha Romanoff",
+            "Maria Hill",
+            "Jane Foster"
+        ],
+        "correct_answer": "Pepper Potts",
+        "hint": "She later becomes Tony Stark's love interest."
+    },
+    {
+        "question": "Who plays the role of Bruce Banner in the first Incredible Hulk film?",
+        "options": [
+            "Edward Norton",
+            "Mark Ruffalo",
+            "Eric Bana",
+            "Lou Ferrigno"
+        ],
+        "correct_answer": "Edward Norton",
+        "hint": "This actor also wrote the screenplay for the film."
+    },
+    {
+        "question": "What is the name of Bruce Banner's love interest in the film?",
+        "options": [
+            "Betty Ross",
+            "Pepper Potts",
+            "Natasha Romanoff",
+            "Jane Foster"
+        ],
+        "correct_answer": "Betty Ross",
+        "hint": "She is the daughter of General Thunderbolt Ross."
+    },
+    {
+        "question": "Who is the main antagonist in the first Incredible Hulk film?",
+        "options": [
+            "Abomination",
+            "Leader",
+            "Thunderbolt Ross",
+            "Red Hulk"
+        ],
+        "correct_answer": "Abomination",
+        "hint": "This character is also known as Emil Blonsky."
+    },
+    {
+        "question": "Which actor has a cameo as a security guard in the film?",
+        "options": [
+            "Lou Ferrigno",
+            "Stan Lee",
+            "Robert Downey Jr.",
+            "Chris Evans"
+        ],
+        "correct_answer": "Lou Ferrigno",
+        "hint": "He played the Hulk in the 1970s television series."
+    },
+    {
+        "question": "What university is Bruce Banner hiding at during the film?",
+        "options": [
+            "Culver University",
+            "Empire State University",
+            "Metropolis University",
+            "Midtown University"
+        ],
+        "correct_answer": "Culver University",
+        "hint": "This fictional university is often associated with Hulk in Marvel Comics."
+    },
+    {
+        "question": "Who is the main antagonist in Iron Man 2?",
+        "options": [
+            "Whiplash",
+            "Justin Hammer",
+            "Mandarin",
+            "Obadiah Stane"
+        ],
+        "correct_answer": "Whiplash",
+        "hint": "This character's real name is Ivan Vanko."
+    },
+    {
+        "question": "Who plays the role of Black Widow in Iron Man 2?",
+        "options": [
+            "Scarlett Johansson",
+            "Gwyneth Paltrow",
+            "Natalie Portman",
+            "Elizabeth Olsen"
+        ],
+        "correct_answer": "Scarlett Johansson",
+        "hint": "This actress's character also goes by the name Natasha Romanoff."
+    },
+    {
+        "question": "What is the name of Tony Stark's best friend who dons the War Machine suit?",
+        "options": [
+            "James Rhodes",
+            "Happy Hogan",
+            "Nick Fury",
+            "Phil Coulson"
+        ],
+        "correct_answer": "James Rhodes",
+        "hint": "He is often referred to as 'Rhodey.'"
+    },
+    {
+        "question": "Which actor replaced Terrence Howard as James Rhodes in Iron Man 2?",
+        "options": [
+            "Don Cheadle",
+            "Anthony Mackie",
+            "Chadwick Boseman",
+            "Michael B. Jordan"
+        ],
+        "correct_answer": "Don Cheadle",
+        "hint": "This actor went on to play War Machine in subsequent Marvel films."
+    },
+    {
+        "question": "What is the name of the event Tony Stark participates in at the beginning of Iron Man 2?",
+        "options": [
+            "Monaco Grand Prix",
+            "Le Mans",
+            "Daytona 500",
+            "Indy 500"
+        ],
+        "correct_answer": "Monaco Grand Prix",
+        "hint": "This prestigious race takes place in a famous Mediterranean principality."
+    },
+    {
+        "question": "Who plays the role of Thor in the first Thor film?",
+        "options": [
+            "Chris Hemsworth",
+            "Chris Evans",
+            "Chris Pratt",
+            "Chris Pine"
+        ],
+        "correct_answer": "Chris Hemsworth",
+        "hint": "This actor is known for his impressive physique and Australian accent."
+    },
+    {
+        "question": "What is the name of Thor's hammer?",
+        "options": [
+            "Mjolnir",
+            "Stormbreaker",
+            "Gungnir",
+            "Jarnbjorn"
+        ],
+        "correct_answer": "Mjolnir",
+        "hint": "This weapon is said to be forged in the heart of a dying star."
+    },
+    {
+        "question": "Who is the main antagonist in the first Thor film?",
+        "options": [
+            "Loki",
+            "Malekith",
+            "Hela",
+            "Surtur"
+        ],
+        "correct_answer": "Loki",
+        "hint": "This character is Thor's adoptive brother."
+    },
+    {
+        "question": "What realm is Thor banished to by Odin?",
+        "options": [
+            "Earth",
+            "Asgard",
+            "Jotunheim",
+            "Vanaheim"
+        ],
+        "correct_answer": "Earth",
+        "hint": "This realm is also known as Midgard."
+    },
+    {
+        "question": "Who directed the first Thor film?",
+        "options": [
+            "Kenneth Branagh",
+            "Joss Whedon",
+            "Jon Favreau",
+            "James Gunn"
+        ],
+        "correct_answer": "Kenneth Branagh",
+        "hint": "This director is also known for his work in Shakespearean adaptations."
+    },
+    {
+        "question": "Who plays the role of Captain America in the first Captain America film?",
+        "options": [
+            "Chris Evans",
+            "Chris Hemsworth",
+            "Chris Pratt",
+            "Chris Pine"
+        ],
+        "correct_answer": "Chris Evans",
+        "hint": "This actor also played the Human Torch in the Fantastic Four films."
+    },
+    {
+        "question": "What is the full title of the first Captain America film?",
+        "options": [
+            "The First Avenger",
+            "Winter Soldier",
+            "Civil War",
+            "Infinity War"
+        ],
+        "correct_answer": "The First Avenger",
+        "hint": "The film's title highlights Captain America's status in the Marvel Universe."
+    },
+    {
+        "question": "Who is the main antagonist in the first Captain America film?",
+        "options": [
+            "Red Skull",
+            "Loki",
+            "Thanos",
+            "Ultron"
+        ],
+        "correct_answer": "Red Skull",
+        "hint": "This villain's real name is Johann Schmidt."
+    },
+    {
+        "question": "What is the name of the organization that Red Skull leads?",
+        "options": [
+            "HYDRA",
+            "S.H.I.E.L.D.",
+            "AIM",
+            "The Hand"
+        ],
+        "correct_answer": "HYDRA",
+        "hint": "This organization’s motto is 'Cut off one head, two more shall take its place.'"
+    },
+    {
+        "question": "What is the name of Captain America's best friend who later becomes the Winter Soldier?",
+        "options": [
+            "Bucky Barnes",
+            "Sam Wilson",
+            "Tony Stark",
+            "Bruce Banner"
+        ],
+        "correct_answer": "Bucky Barnes",
+        "hint": "This character is also known as James."
+    },
+    {
+        "question": "Who is the main antagonist in the first Avengers film?",
+        "options": [
+            "Loki",
+            "Thanos",
+            "Ultron",
+            "Red Skull"
+        ],
+        "correct_answer": "Loki",
+        "hint": "This character is Thor's adoptive brother and the God of Mischief."
+    },
+    {
+        "question": "What is the name of the cosmic cube that Loki uses to open a portal for the Chitauri army?",
+        "options": [
+            "Tesseract",
+            "Aether",
+            "Orb",
+            "Scepter"
+        ],
+        "correct_answer": "Tesseract",
+        "hint": "This object contains one of the Infinity Stones."
+    },
+    {
+        "question": "Who is the director of the first Avengers film?",
+        "options": [
+            "Joss Whedon",
+            "Jon Favreau",
+            "Kenneth Branagh",
+            "James Gunn"
+        ],
+        "correct_answer": "Joss Whedon",
+        "hint": "This director is also known for creating the TV series Buffy the Vampire Slayer."
+    },
+    {
+        "question": "Which character brings the Avengers together in the first film?",
+        "options": [
+            "Nick Fury",
+            "Tony Stark",
+            "Steve Rogers",
+            "Thor"
+        ],
+        "correct_answer": "Nick Fury",
+        "hint": "This character is the director of S.H.I.E.L.D."
+    },
+    {
+        "question": "What is the name of the alien race that invades Earth in the first Avengers film?",
+        "options": [
+            "Chitauri",
+            "Kree",
+            "Skrulls",
+            "Frost Giants"
+        ],
+        "correct_answer": "Chitauri",
+        "hint": "This alien race is led by Loki in the invasion of New York."
+    },
+    {
+        "question": "Who is the main antagonist in Iron Man 3?",
+        "options": [
+            "Aldrich Killian",
+            "Mandarin",
+            "Obadiah Stane",
+            "Justin Hammer"
+        ],
+        "correct_answer": "Aldrich Killian",
+        "hint": "This character is the founder of Advanced Idea Mechanics (AIM)."
+    },
+    {
+        "question": "What is the name of the experimental treatment that gives people superhuman abilities in Iron Man 3?",
+        "options": [
+            "Extremis",
+            "Arc Reactor",
+            "Super Soldier Serum",
+            "Vibranium"
+        ],
+        "correct_answer": "Extremis",
+        "hint": "This treatment is developed by Aldrich Killian and Maya Hansen."
+    },
+    {
+        "question": "Who pretends to be the Mandarin in Iron Man 3?",
+        "options": [
+            "Trevor Slattery",
+            "Aldrich Killian",
+            "Justin Hammer",
+            "Happy Hogan"
+        ],
+        "correct_answer": "Trevor Slattery",
+        "hint": "This character is actually an actor hired to play the role of the Mandarin."
+    },
+    {
+        "question": "Who directed Iron Man 3?",
+        "options": [
+            "Shane Black",
+            "Jon Favreau",
+            "Kenneth Branagh",
+            "Joss Whedon"
+        ],
+        "correct_answer": "Shane Black",
+        "hint": "This director is known for his work on the Lethal Weapon series."
+    },
+    {
+        "question": "What is the name of Tony Stark's latest Iron Man suit in Iron Man 3?",
+        "options": [
+            "Mark XLII (42)",
+            "Mark III",
+            "Mark VI",
+            "Mark LXXXV (85)"
+        ],
+        "correct_answer": "Mark XLII (42)",
+        "hint": "This suit is notable for its ability to fly in separate pieces and assemble around Tony."
+    },
+    {
+        "question": "Who is the main antagonist in Thor: The Dark World?",
+        "options": [
+            "Malekith",
+            "Loki",
+            "Hela",
+            "Surtur"
+        ],
+        "correct_answer": "Malekith",
+        "hint": "This character is the leader of the Dark Elves."
+    },
+    {
+        "question": "What is the name of the powerful substance that Malekith seeks in Thor: The Dark World?",
+        "options": [
+            "Aether",
+            "Tesseract",
+            "Orb",
+            "Scepter"
+        ],
+        "correct_answer": "Aether",
+        "hint": "This substance is later revealed to be the Reality Stone."
+    },
+    {
+        "question": "Who directed Thor: The Dark World?",
+        "options": [
+            "Alan Taylor",
+            "Kenneth Branagh",
+            "Taika Waititi",
+            "Joss Whedon"
+        ],
+        "correct_answer": "Alan Taylor",
+        "hint": "This director is known for his work on the TV series Game of Thrones."
+    },
+    {
+        "question": "What is the name of Thor's mother who dies in Thor: The Dark World?",
+        "options": [
+            "Frigga",
+            "Sif",
+            "Jane",
+            "Hela"
+        ],
+        "correct_answer": "Frigga",
+        "hint": "This character is portrayed by actress Rene Russo."
+    },
+    {
+        "question": "In which realm do Thor and Loki confront Malekith in the final battle?",
+        "options": [
+            "Svartalfheim",
+            "Asgard",
+            "Midgard",
+            "Jotunheim"
+        ],
+        "correct_answer": "Svartalfheim",
+        "hint": "This realm is the home of the Dark Elves."
+    },
+    {
+        "question": "What is the full title of the second Captain America film?",
+        "options": [
+            "The Winter Soldier",
+            "Civil War",
+            "The First Avenger",
+            "Infinity War"
+        ],
+        "correct_answer": "The Winter Soldier",
+        "hint": "The title refers to a character who is revealed to be Captain America's old friend, Bucky Barnes."
+    },
+    {
+        "question": "Who is the main antagonist in Captain America: The Winter Soldier?",
+        "options": [
+            "Alexander Pierce",
+            "Loki",
+            "Red Skull",
+            "Thanos"
+        ],
+        "correct_answer": "Alexander Pierce",
+        "hint": "This character is a high-ranking S.H.I.E.L.D. official and a Hydra leader."
+    },
+    {
+        "question": "Which character makes his first appearance in the Marvel Cinematic Universe in Captain America: The Winter Soldier?",
+        "options": [
+            "Falcon",
+            "Hawkeye",
+            "Ant-Man",
+            "Black Panther"
+        ],
+        "correct_answer": "Falcon",
+        "hint": "This character's real name is Sam Wilson."
+    },
+    {
+        "question": "Who directed Captain America: The Winter Soldier?",
+        "options": [
+            "Anthony and Joe Russo",
+            "Joss Whedon",
+            "Jon Favreau",
+            "Kenneth Branagh"
+        ],
+        "correct_answer": "Anthony and Joe Russo",
+        "hint": "These directors are also known for directing Avengers: Infinity War and Avengers: Endgame."
+    },
+    {
+        "question": "What is the name of the covert S.H.I.E.L.D. project that aims to eliminate threats before they happen?",
+        "options": [
+            "Project Insight",
+            "Project Pegasus",
+            "Project Rebirth",
+            "Project Excalibur"
+        ],
+        "correct_answer": "Project Insight",
+        "hint": "This project involves three Helicarriers linked to spy satellites."
+    },
+    {
+        "question": "Who is the leader of the Guardians of the Galaxy?",
+        "options": [
+            "Star-Lord",
+            "Rocket",
+            "Gamora",
+            "Drax"
+        ],
+        "correct_answer": "Star-Lord",
+        "hint": "This character's real name is Peter Quill."
+    },
+    {
+        "question": "What is the name of the powerful object that the Guardians of the Galaxy seek to protect?",
+        "options": [
+            "Orb",
+            "Tesseract",
+            "Aether",
+            "Eye of Agamotto"
+        ],
+        "correct_answer": "Orb",
+        "hint": "This object contains the Power Stone."
+    },
+    {
+        "question": "Who directed Guardians of the Galaxy?",
+        "options": [
+            "James Gunn",
+            "Joss Whedon",
+            "Jon Favreau",
+            "Taika Waititi"
+        ],
+        "correct_answer": "James Gunn",
+        "hint": "This director is known for his unique blend of humor and action."
+    },
+    {
+        "question": "Which character in the film is a talking raccoon?",
+        "options": [
+            "Rocket",
+            "Groot",
+            "Drax",
+            "Yondu"
+        ],
+        "correct_answer": "Rocket",
+        "hint": "This character is voiced by Bradley Cooper."
+    },
+    {
+        "question": "What is the name of the assassin who teams up with the Guardians to stop Ronan?",
+        "options": [
+            "Gamora",
+            "Nebula",
+            "Mantis",
+            "Hela"
+        ],
+        "correct_answer": "Gamora",
+        "hint": "This character is the adopted daughter of Thanos."
+    },
+    {
+        "question": "Which Avenger is primarily responsible for creating Ultron?",
+        "options": [
+            "Tony Stark",
+            "Bruce Banner",
+            "Steve Rogers",
+            "Thor"
+        ],
+        "correct_answer": "Tony Stark",
+        "hint": "This character is also known as Iron Man."
+    },
+    {
+        "question": "Who directed Avengers: Age of Ultron?",
+        "options": [
+            "Joss Whedon",
+            "Anthony and Joe Russo",
+            "Jon Favreau",
+            "James Gunn"
+        ],
+        "correct_answer": "Joss Whedon",
+        "hint": "This director also directed the first Avengers film."
+    },
+    {
+        "question": "What is the name of the metal that Ultron wants to use to build his new body?",
+        "options": [
+            "Vibranium",
+            "Adamantium",
+            "Uru",
+            "Titanium"
+        ],
+        "correct_answer": "Vibranium",
+        "hint": "This metal is also used to make Captain America's shield."
+    },
+    {
+        "question": "Which two new characters, twins with superpowers, are introduced in Avengers: Age of Ultron?",
+        "options": [
+            "Quicksilver and Scarlet Witch",
+            "Falcon and Winter Soldier",
+            "Vision and War Machine",
+            "Ant-Man and Wasp"
+        ],
+        "correct_answer": "Quicksilver and Scarlet Witch",
+        "hint": "These characters are siblings with the powers of super speed and telekinesis, respectively."
+    },
+    {
+        "question": "What is the name of the android created by Ultron that eventually joins the Avengers?",
+        "options": [
+            "Vision",
+            "War Machine",
+            "Iron Man",
+            "Hawkeye"
+        ],
+        "correct_answer": "Vision",
+        "hint": "This character is brought to life using the Mind Stone."
+    },
+    {
+        "question": "Who plays the role of Scott Lang in Ant-Man?",
+        "options": [
+            "Paul Rudd",
+            "Chris Pratt",
+            "Robert Downey Jr.",
+            "Chris Evans"
+        ],
+        "correct_answer": "Paul Rudd",
+        "hint": "This actor is also known for his roles in comedy films like Clueless and This is 40."
+    },
+    {
+        "question": "Who is the original Ant-Man that mentors Scott Lang?",
+        "options": [
+            "Hank Pym",
+            "Howard Stark",
+            "Tony Stark",
+            "Bruce Banner"
+        ],
+        "correct_answer": "Hank Pym",
+        "hint": "This character is portrayed by Michael Douglas."
+    },
+    {
+        "question": "What is the name of the technology that allows Ant-Man to shrink in size?",
+        "options": [
+            "Pym Particles",
+            "Quantum Particles",
+            "Vibranium",
+            "Stark Tech"
+        ],
+        "correct_answer": "Pym Particles",
+        "hint": "This technology was created by Hank Pym."
+    },
+    {
+        "question": "Who is the main antagonist in Ant-Man?",
+        "options": [
+            "Yellowjacket",
+            "Ultron",
+            "Loki",
+            "Red Skull"
+        ],
+        "correct_answer": "Yellowjacket",
+        "hint": "This character's real name is Darren Cross."
+    },
+    {
+        "question": "Who directed the first Ant-Man film?",
+        "options": [
+            "Peyton Reed",
+            "James Gunn",
+            "Joss Whedon",
+            "Jon Favreau"
+        ],
+        "correct_answer": "Peyton Reed",
+        "hint": "This director took over the project after Edgar Wright left."
+    },
+    {
+        "question": "What is the main issue that causes the split between the Avengers in Captain America: Civil War?",
+        "options": [
+            "Sokovia Accords",
+            "Infinity Stones",
+            "Ultron's creation",
+            "SHIELD's downfall"
+        ],
+        "correct_answer": "Sokovia Accords",
+        "hint": "These are a set of legal documents intended to regulate the activities of superpowered individuals."
+    },
+    {
+        "question": "Which character is introduced to the Marvel Cinematic Universe in Captain America: Civil War?",
+        "options": [
+            "Black Panther",
+            "Ant-Man",
+            "Doctor Strange",
+            "Scarlet Witch"
+        ],
+        "correct_answer": "Black Panther",
+        "hint": "This character is the king of Wakanda."
+    },
+    {
+        "question": "What is the name of the villain who orchestrates the events of Captain America: Civil War?",
+        "options": [
+            "Helmut Zemo",
+            "Red Skull",
+            "Loki",
+            "Ultron"
+        ],
+        "correct_answer": "Helmut Zemo",
+        "hint": "This character is driven by a desire for revenge against the Avengers."
+    },
+    {
+        "question": "Which Avenger is revealed to be responsible for the death of Tony Stark's parents?",
+        "options": [
+            "Winter Soldier",
+            "Hawkeye",
+            "Black Widow",
+            "Scarlet Witch"
+        ],
+        "correct_answer": "Winter Soldier",
+        "hint": "This character is also known as Bucky Barnes."
+    },
+    {
+        "question": "What is the name of the prison where several Avengers are held after breaking the Sokovia Accords?",
+        "options": [
+            "The Raft",
+            "The Triskelion",
+            "Project Pegasus",
+            "The Cube"
+        ],
+        "correct_answer": "The Raft",
+        "hint": "This facility is located in the middle of the ocean."
+    },
+    {
+        "question": "Who plays the role of Doctor Stephen Strange?",
+        "options": [
+            "Benedict Cumberbatch",
+            "Robert Downey Jr.",
+            "Chris Hemsworth",
+            "Mark Ruffalo"
+        ],
+        "correct_answer": "Benedict Cumberbatch",
+        "hint": "This actor is also known for his role as Sherlock Holmes in a popular TV series."
+    },
+    {
+        "question": "What is the name of the ancient order that teaches Doctor Strange the mystic arts?",
+        "options": [
+            "Masters of the Mystic Arts",
+            "League of Shadows",
+            "Order of the Phoenix",
+            "Avengers"
+        ],
+        "correct_answer": "Masters of the Mystic Arts",
+        "hint": "This order is based in Kamar-Taj."
+    },
+    {
+        "question": "Who is the main antagonist in Doctor Strange?",
+        "options": [
+            "Kaecilius",
+            "Dormammu",
+            "Mordo",
+            "Thanos"
+        ],
+        "correct_answer": "Kaecilius",
+        "hint": "This character is a former student of the Ancient One who turns against her."
+    },
+    {
+        "question": "What is the name of the powerful relic that Doctor Strange uses to manipulate time?",
+        "options": [
+            "Eye of Agamotto",
+            "Tesseract",
+            "Orb",
+            "Aether"
+        ],
+        "correct_answer": "Eye of Agamotto",
+        "hint": "This relic contains the Time Stone."
+    },
+    {
+        "question": "What is the name of the dimension that Doctor Strange traps Dormammu in?",
+        "options": [
+            "The Dark Dimension",
+            "The Quantum Realm",
+            "The Mirror Dimension",
+            "The Astral Plane"
+        ],
+        "correct_answer": "The Dark Dimension",
+        "hint": "This dimension is ruled by Dormammu."
+    },
+    {
+        "question": "Who is revealed to be Star-Lord's father in Guardians of the Galaxy Vol. 2?",
+        "options": [
+            "Ego",
+            "Yondu",
+            "Thanos",
+            "Drax"
+        ],
+        "correct_answer": "Ego",
+        "hint": "This character is a celestial being."
+    },
+    {
+        "question": "What is the name of the empath who joins the Guardians in Guardians of the Galaxy Vol. 2?",
+        "options": [
+            "Mantis",
+            "Nebula",
+            "Gamora",
+            "Ayesha"
+        ],
+        "correct_answer": "Mantis",
+        "hint": "This character has the ability to sense and alter emotions."
+    },
+    {
+        "question": "Which character sacrifices themselves to save Star-Lord at the end of Guardians of the Galaxy Vol. 2?",
+        "options": [
+            "Yondu",
+            "Drax",
+            "Rocket",
+            "Groot"
+        ],
+        "correct_answer": "Yondu",
+        "hint": "This character is known for his whistling arrow."
+    },
+    {
+        "question": "Who is the golden-skinned leader of the Sovereign people?",
+        "options": [
+            "Ayesha",
+            "Nebula",
+            "Gamora",
+            "Mantis"
+        ],
+        "correct_answer": "Ayesha",
+        "hint": "This character commissions the Guardians to protect valuable batteries."
+    },
+    {
+        "question": "What song plays during the opening credits scene of Guardians of the Galaxy Vol. 2?",
+        "options": [
+            "Mr. Blue Sky",
+            "Come and Get Your Love",
+            "Hooked on a Feeling",
+            "Brandy (You're a Fine Girl)"
+        ],
+        "correct_answer": "Mr. Blue Sky",
+        "hint": "This song is by Electric Light Orchestra (ELO)."
+    },
+    {
+        "question": "What is the name of the academic competition team that Peter Parker is a part of in Spider-Man: Homecoming?",
+        "options": [
+            "Decathlon Team",
+            "Quiz Bowl Team",
+            "Mathletes",
+            "Science Olympiad"
+        ],
+        "correct_answer": "Decathlon Team",
+        "hint": "This team competes in academic competitions across different subjects."
+    },
+    {
+        "question": "What is the name of the AI in Peter Parker's Spider-Man suit?",
+        "options": [
+            "Karen",
+            "JARVIS",
+            "FRIDAY",
+            "EDITH"
+        ],
+        "correct_answer": "Karen",
+        "hint": "This AI was created by Tony Stark for Peter's suit."
+    },
+    {
+        "question": "Which Avenger does Peter Parker idolize and receive mentorship from in Spider-Man: Homecoming?",
+        "options": [
+            "Iron Man",
+            "Captain America",
+            "Thor",
+            "Black Widow"
+        ],
+        "correct_answer": "Iron Man",
+        "hint": "This character is also known as Tony Stark."
+    },
+    {
+        "question": "What is the name of Peter Parker's best friend in Spider-Man: Homecoming?",
+        "options": [
+            "Ned",
+            "Harry",
+            "Flash",
+            "MJ"
+        ],
+        "correct_answer": "Ned",
+        "hint": "This character is played by Jacob Batalon."
+    },
+    {
+        "question": "What is the high school that Peter Parker attends in Spider-Man: Homecoming?",
+        "options": [
+            "Midtown School of Science and Technology",
+            "Empire State High",
+            "Queens High School",
+            "Brooklyn Tech"
+        ],
+        "correct_answer": "Midtown School of Science and Technology",
+        "hint": "This school focuses on science and technology education."
+    },
+    {
+        "question": "What is the name of Thor's sister who is introduced in Thor: Ragnarok?",
+        "options": [
+            "Hela",
+            "Valkyrie",
+            "Sif",
+            "Frigga"
+        ],
+        "correct_answer": "Hela",
+        "hint": "This character is the Goddess of Death."
+    },
+    {
+        "question": "Which character teams up with Thor to escape the planet Sakaar?",
+        "options": [
+            "Hulk",
+            "Iron Man",
+            "Black Widow",
+            "Hawkeye"
+        ],
+        "correct_answer": "Hulk",
+        "hint": "This character is also known as Bruce Banner."
+    },
+    {
+        "question": "Who is the ruler of the planet Sakaar in Thor: Ragnarok?",
+        "options": [
+            "Grandmaster",
+            "Collector",
+            "Odin",
+            "Heimdall"
+        ],
+        "correct_answer": "Grandmaster",
+        "hint": "This character is portrayed by Jeff Goldblum."
+    },
+    {
+        "question": "What is the name of Thor's homeworld that is destroyed in Thor: Ragnarok?",
+        "options": [
+            "Asgard",
+            "Midgard",
+            "Jotunheim",
+            "Vanaheim"
+        ],
+        "correct_answer": "Asgard",
+        "hint": "This realm is ruled by Odin before its destruction."
+    },
+    {
+        "question": "What is the name of Thor's weapon that is destroyed by Hela?",
+        "options": [
+            "Mjolnir",
+            "Stormbreaker",
+            "Gungnir",
+            "Hofund"
+        ],
+        "correct_answer": "Mjolnir",
+        "hint": "This hammer is said to be forged in the heart of a dying star."
+    },
+    {
+        "question": "Who plays the role of T'Challa in Black Panther?",
+        "options": [
+            "Chadwick Boseman",
+            "Michael B. Jordan",
+            "Lupita Nyong'o",
+            "Daniel Kaluuya"
+        ],
+        "correct_answer": "Chadwick Boseman",
+        "hint": "This actor also portrayed Jackie Robinson and James Brown in biographical films."
+    },
+    {
+        "question": "What is the name of T'Challa's sister who is a tech genius?",
+        "options": [
+            "Shuri",
+            "Nakia",
+            "Okoye",
+            "Ramonda"
+        ],
+        "correct_answer": "Shuri",
+        "hint": "This character is portrayed by Letitia Wright."
+    },
+    {
+        "question": "Who is the main antagonist in Black Panther?",
+        "options": [
+            "Erik Killmonger",
+            "Ulysses Klaue",
+            "M'Baku",
+            "Zuri"
+        ],
+        "correct_answer": "Erik Killmonger",
+        "hint": "This character's real name is N'Jadaka."
+    },
+    {
+        "question": "What is the name of the metal that is central to Wakanda's advanced technology?",
+        "options": [
+            "Vibranium",
+            "Adamantium",
+            "Uru",
+            "Promethium"
+        ],
+        "correct_answer": "Vibranium",
+        "hint": "This metal is also used to make Captain America's shield."
+    },
+    {
+        "question": "What is the name of the tribe that challenges T'Challa for the throne during his coronation?",
+        "options": [
+            "Jabari Tribe",
+            "Border Tribe",
+            "Merchant Tribe",
+            "Mining Tribe"
+        ],
+        "correct_answer": "Jabari Tribe",
+        "hint": "This tribe is led by M'Baku."
+    },
+    {
+        "question": "Which character collects all the Infinity Stones in Avengers: Infinity War?",
+        "options": [
+            "Thanos",
+            "Loki",
+            "Thor",
+            "Doctor Strange"
+        ],
+        "correct_answer": "Thanos",
+        "hint": "This character's goal is to wipe out half of all life in the universe."
+    },
+    {
+        "question": "Which Avenger sacrifices himself to obtain the Soul Stone?",
+        "options": [
+            "Gamora",
+            "Black Widow",
+            "Iron Man",
+            "Vision"
+        ],
+        "correct_answer": "Gamora",
+        "hint": "This character is Thanos's adopted daughter."
+    },
+    {
+        "question": "What is the name of the weapon forged for Thor in Avengers: Infinity War?",
+        "options": [
+            "Stormbreaker",
+            "Mjolnir",
+            "Gungnir",
+            "Thunderstrike"
+        ],
+        "correct_answer": "Stormbreaker",
+        "hint": "This weapon is forged in Nidavellir."
+    },
+    {
+        "question": "Who is the guardian of the Soul Stone?",
+        "options": [
+            "Red Skull",
+            "Ebony Maw",
+            "Heimdall",
+            "The Collector"
+        ],
+        "correct_answer": "Red Skull",
+        "hint": "This character was transported to Vormir after using the Tesseract."
+    },
+    {
+        "question": "Which Avenger is able to resist Thanos's power and hold his hand open briefly during the battle on Titan?",
+        "options": [
+            "Iron Man",
+            "Spider-Man",
+            "Captain America",
+            "Doctor Strange"
+        ],
+        "correct_answer": "Iron Man",
+        "hint": "This character is also known as Tony Stark."
+    },
+    {
+        "question": "Who is the main antagonist in Ant-Man and the Wasp?",
+        "options": [
+            "Ghost",
+            "Yellowjacket",
+            "Red Skull",
+            "Ultron"
+        ],
+        "correct_answer": "Ghost",
+        "hint": "This character's real name is Ava Starr."
+    },
+    {
+        "question": "What is the name of Hank Pym's wife who is trapped in the Quantum Realm?",
+        "options": [
+            "Janet van Dyne",
+            "Hope van Dyne",
+            "Maria Hill",
+            "Peggy Carter"
+        ],
+        "correct_answer": "Janet van Dyne",
+        "hint": "This character is portrayed by Michelle Pfeiffer."
+    },
+    {
+        "question": "What business does Scott Lang run with his friends in Ant-Man and the Wasp?",
+        "options": [
+            "X-Con Security Consultants",
+            "Pym Technologies",
+            "Stark Industries",
+            "Avengers Tower"
+        ],
+        "correct_answer": "X-Con Security Consultants",
+        "hint": "This business is a security company."
+    },
+    {
+        "question": "Which character becomes the new Wasp in Ant-Man and the Wasp?",
+        "options": [
+            "Hope van Dyne",
+            "Janet van Dyne",
+            "Peggy Carter",
+            "Natasha Romanoff"
+        ],
+        "correct_answer": "Hope van Dyne",
+        "hint": "This character is portrayed by Evangeline Lilly."
+    },
+    {
+        "question": "What is the name of the FBI agent assigned to monitor Scott Lang?",
+        "options": [
+            "Jimmy Woo",
+            "Phil Coulson",
+            "Maria Hill",
+            "Everett Ross"
+        ],
+        "correct_answer": "Jimmy Woo",
+        "hint": "This character looks like Jim from the Office."
+    },
+    {
+        "question": "What is the name of the alien race that Carol Danvers belongs to before she regains her memories?",
+        "options": [
+            "Kree",
+            "Skrull",
+            "Asgardian",
+            "Chitauri"
+        ],
+        "correct_answer": "Kree",
+        "hint": "This race is known for its blue skin."
+    },
+    {
+        "question": "What is the name of the cat that accompanies Carol Danvers and Nick Fury?",
+        "options": [
+            "Goose",
+            "Fluffy",
+            "Chewie",
+            "Simba"
+        ],
+        "correct_answer": "Goose",
+        "hint": "This cat is not what it seems and has a surprising ability."
+    },
+    {
+        "question": "Who is the leader of the Skrulls in Captain Marvel?",
+        "options": [
+            "Talos",
+            "Ronan",
+            "Yon-Rogg",
+            "Korath"
+        ],
+        "correct_answer": "Talos",
+        "hint": "This character is initially introduced as a villain but later becomes an ally."
+    },
+    {
+        "question": "What is the name of Carol Danvers' best friend and fellow pilot?",
+        "options": [
+            "Maria Rambeau",
+            "Monica Rambeau",
+            "Natasha Romanoff",
+            "Peggy Carter"
+        ],
+        "correct_answer": "Maria Rambeau",
+        "hint": "This character is the mother of Monica Rambeau."
+    },
+    {
+        "question": "What does Carol Danvers name her aircraft?",
+        "options": [
+            "Lucky Star",
+            "Avenger",
+            "Skybird",
+            "Starforce"
+        ],
+        "correct_answer": "Avenger",
+        "hint": "This name inspires the future title of Earth's mightiest heroes."
+    },
+    {
+        "question": "Which Avenger sacrifices themselves to obtain the Soul Stone in Avengers: Endgame?",
+        "options": [
+            "Black Widow",
+            "Hawkeye",
+            "Iron Man",
+            "Captain America"
+        ],
+        "correct_answer": "Black Widow",
+        "hint": "This character's real name is Natasha Romanoff."
+    },
+    {
+        "question": "What is the name of the device that the Avengers use to travel through time?",
+        "options": [
+            "Quantum Tunnel",
+            "Bifrost",
+            "Time Machine",
+            "Tesseract"
+        ],
+        "correct_answer": "Quantum Tunnel",
+        "hint": "This device was developed with the help of Hank Pym's technology."
+    },
+    {
+        "question": "Who wields the Infinity Gauntlet to reverse the snap in Avengers: Endgame?",
+        "options": [
+            "Iron Man",
+            "Hulk",
+            "Thor",
+            "Captain America"
+        ],
+        "correct_answer": "Hulk",
+        "hint": "This character is also known as Bruce Banner."
+    },
+    {
+        "question": "What is the final line spoken by Tony Stark in Avengers: Endgame?",
+        "options": [
+            "I am Iron Man",
+            "Avengers Assemble",
+            "We won",
+            "I love you 3000"
+        ],
+        "correct_answer": "I am Iron Man",
+        "hint": "This line mirrors Tony Stark's declaration at the end of the first Iron Man film."
+    },
+    {
+        "question": "Who becomes the new leader of Asgard at the end of Avengers: Endgame?",
+        "options": [
+            "Valkyrie",
+            "Thor",
+            "Loki",
+            "Sif"
+        ],
+        "correct_answer": "Valkyrie",
+        "hint": "This character is portrayed by Tessa Thompson."
+    }
+]
