@@ -44,7 +44,7 @@ const withQuizLogic = (WrappedComponent) => {
     useEffect(() => {
       if (isAnswerShown !== null && !isMuted) {
         const audio = new Audio(
-          isAnswerShown ? '/sounds/correct.mp3' : '/sounds/incorrect.mp3'
+          isAnswerShown ? './marvel-quiz/sounds/correct.mp3' : './marvel-quiz/sounds/incorrect.mp3'
         );
         audio.play();
       }
