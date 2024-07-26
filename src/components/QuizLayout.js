@@ -36,7 +36,7 @@ const QuizLayout = ({
     }, 150); // Animation duration
   };
 
-  const logoSrc = isDarkMode ? './logo.png' : './darklogo.png';
+  const logoSrc = isDarkMode ? './marvel-quiz/logo.png' : './marvel-quiz/darklogo.png';
 
   return (
     <div className="min-h-screen flex items-center justify-center">
