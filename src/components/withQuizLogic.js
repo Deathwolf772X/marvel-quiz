@@ -44,11 +44,12 @@ const withQuizLogic = (WrappedComponent) => {
     useEffect(() => {
       if (isAnswerShown !== null && !isMuted) {
         const audio = new Audio(
-          isAnswerShown ? './marvel-quiz/sounds/correct.mp3' : './marvel-quiz/sounds/incorrect.mp3'
+          isAnswerShown ? `${process.env.PUBLIC_URL}/sounds/correct.mp3` : `${process.env.PUBLIC_URL}/sounds/incorrect.mp3`
         );
         audio.play();
       }
     }, [isAnswerShown, isMuted]);
+    
 
     useEffect(() => {
       if (settings.timeAllocated) {

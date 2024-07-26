@@ -1,7 +1,7 @@
 import React from 'react';
 
 function QuizSelection({ selectQuiz, isDarkMode }) {
-  const logoSrc = isDarkMode ? './marvel-quiz/logo.png' : './marvel-quiz/darklogo.png';
+  const logoSrc = isDarkMode ? `${process.env.PUBLIC_URL}/logo.png` : `${process.env.PUBLIC_URL}/darklogo.png`;
 
   return (
     <div className="text-center">
